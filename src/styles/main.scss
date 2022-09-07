@@ -1,0 +1,11 @@
+@import './vars.scss';
+@import './modules/card.scss';
+@import './modules/card-info.scss';
+@import './modules/gallery.scss';
+@import './modules/modal.scss';
+
+body {
+    background-color: white;
+    font-family: 'Oxygen';
+    font-style: normal;
+}

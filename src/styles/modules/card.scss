@@ -1,0 +1,29 @@
+.card {
+  background-color: $primary-color;
+  border-radius: 10px;
+  width: 170px;
+  padding: 15px;
+  cursor: pointer;
+
+  &__title {
+    font: 150% sans-serif;
+    color: white;
+    font-size: 1.3rem;
+    text-align: left;
+  }
+
+  &__image {
+    border-radius: 50%;
+    background-size: cover;
+    width: 160px;
+  }
+
+  &__origin {
+    font: 150% sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    text-align: left;
+    color: $secondary-color;
+  }
+}
