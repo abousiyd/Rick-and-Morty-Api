@@ -2,6 +2,9 @@
 
 Technical test for Tattoox.
 
+Preview:
+[deployed demo](https://axiomatic-glove.surge.sh/) 
+
 ![Tattoox preview](./doc/img/characters.png)
 
 
